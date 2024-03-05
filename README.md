@@ -2,4 +2,9 @@
 
 ## Awesome description
 
-This *awesome* project exists to experiment git notions like `clone`, `push` and `pull`
+This _awesome_ project exists to experiment git notions like `clone`, `push` and `pull`
+
+### Achievements
+
+-   cloned this repo
+-   about to push these modifications...
